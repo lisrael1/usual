@@ -19,3 +19,5 @@ done
 ```
 
 There is also usual.basic and you can add more as you wish
+
+Note that this is not a good practice for projects, just for small local scripts...
