@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="usual",
-    version="0.2",
+    version="0.2.1",
     author="Lior Israeli",
     author_email="israelilior@gmail.com",
     description="Save all your repeated imports and their configurations at one place",
